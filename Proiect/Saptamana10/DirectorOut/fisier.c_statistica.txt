@@ -1,0 +1,8 @@
+nume fisier: DirectorIn/fisier.c 
+dimensiune: 82 
+identificatorul utilizatorului: 1000 
+Ultima modificare a lui: 15 11 2023
+contorul de legaturi: 1 
+Drepturi de acces user: RW-
+Drepturi de acces grup: RW-
+Drepturi de acces altii: R--
